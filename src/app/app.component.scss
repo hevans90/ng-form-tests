@@ -1,0 +1,19 @@
+:host {
+  display: flex;
+}
+
+form,
+pre {
+  margin: 25px;
+}
+
+form.root-form {
+  min-width: 300px;
+}
+
+pre {
+  min-width: 165px;
+  background: lighten(black, 25%);
+  padding: 25px;
+  color: white;
+}
